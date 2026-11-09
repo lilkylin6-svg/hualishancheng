@@ -1,0 +1,14 @@
+# 本机的 Claude 配置
+.claude/
+
+# Office 打开文件时生成的临时文件
+~$*
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store

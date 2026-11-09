@@ -1,0 +1,62 @@
+[
+  {
+    "file": "prop/flag_4f.png",
+    "frameCount": 4,
+    "frameWidth": 128,
+    "frameHeight": 96,
+    "columns": 4,
+    "rows": 1,
+    "padding": 0,
+    "previewFps": 8
+  },
+  {
+    "file": "fx/boss_fan_4f.png",
+    "frameCount": 4,
+    "frameWidth": 96,
+    "frameHeight": 96,
+    "columns": 4,
+    "rows": 1,
+    "padding": 0,
+    "previewFps": 8
+  },
+  {
+    "file": "fx/ink_smoke_6f.png",
+    "frameCount": 6,
+    "frameWidth": 128,
+    "frameHeight": 128,
+    "columns": 6,
+    "rows": 1,
+    "padding": 0,
+    "previewFps": 8
+  },
+  {
+    "file": "fx/dragon_coil_6f.png",
+    "frameCount": 6,
+    "frameWidth": 512,
+    "frameHeight": 512,
+    "columns": 6,
+    "rows": 1,
+    "padding": 0,
+    "previewFps": 8
+  },
+  {
+    "file": "fx/fan_gust_4f.png",
+    "frameCount": 4,
+    "frameWidth": 384,
+    "frameHeight": 256,
+    "columns": 4,
+    "rows": 1,
+    "padding": 0,
+    "previewFps": 8
+  },
+  {
+    "file": "fx/hit_spark_4f.png",
+    "frameCount": 4,
+    "frameWidth": 96,
+    "frameHeight": 96,
+    "columns": 4,
+    "rows": 1,
+    "padding": 0,
+    "previewFps": 8
+  }
+]

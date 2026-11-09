@@ -1,0 +1,912 @@
+{
+  "title": "画里山城",
+  "date": "2026-11-09",
+  "count": 110,
+  "assets": [
+    {
+      "file": "promo/key_visual.png",
+      "name": "主视觉",
+      "category": "promo",
+      "w": 3840,
+      "h": 2160,
+      "transparent": false
+    },
+    {
+      "file": "hero/yaomei/turnaround.png",
+      "name": "幺妹 · 三视图",
+      "category": "hero",
+      "w": 1024,
+      "h": 512,
+      "transparent": true
+    },
+    {
+      "file": "hero/bangbang/turnaround.png",
+      "name": "棒棒 · 三视图",
+      "category": "hero",
+      "w": 1024,
+      "h": 512,
+      "transparent": true
+    },
+    {
+      "file": "hero/bianlian/turnaround.png",
+      "name": "变脸匠 · 三视图",
+      "category": "hero",
+      "w": 1024,
+      "h": 512,
+      "transparent": true
+    },
+    {
+      "file": "boss/turnaround.png",
+      "name": "张不管 · 三视图",
+      "category": "boss",
+      "w": 1024,
+      "h": 512,
+      "transparent": true
+    },
+    {
+      "file": "hero/yaomei/head.png",
+      "name": "幺妹 · 头部",
+      "category": "hero",
+      "w": 96,
+      "h": 96,
+      "transparent": true
+    },
+    {
+      "file": "hero/yaomei/torso.png",
+      "name": "幺妹 · 躯干",
+      "category": "hero",
+      "w": 96,
+      "h": 128,
+      "transparent": true
+    },
+    {
+      "file": "hero/yaomei/arm_upper.png",
+      "name": "幺妹 · 上臂",
+      "category": "hero",
+      "w": 32,
+      "h": 64,
+      "transparent": true
+    },
+    {
+      "file": "hero/yaomei/arm_lower.png",
+      "name": "幺妹 · 前臂",
+      "category": "hero",
+      "w": 32,
+      "h": 64,
+      "transparent": true
+    },
+    {
+      "file": "hero/yaomei/leg_upper.png",
+      "name": "幺妹 · 大腿",
+      "category": "hero",
+      "w": 32,
+      "h": 64,
+      "transparent": true
+    },
+    {
+      "file": "hero/yaomei/leg_lower.png",
+      "name": "幺妹 · 小腿",
+      "category": "hero",
+      "w": 40,
+      "h": 72,
+      "transparent": true
+    },
+    {
+      "file": "hero/yaomei/portrait.png",
+      "name": "幺妹 · 半身立绘",
+      "category": "hero",
+      "w": 512,
+      "h": 640,
+      "transparent": true
+    },
+    {
+      "file": "hero/yaomei/prop.png",
+      "name": "幺妹 · 专属道具",
+      "category": "hero",
+      "w": 128,
+      "h": 48,
+      "transparent": true
+    },
+    {
+      "file": "hero/bangbang/head.png",
+      "name": "棒棒 · 头部",
+      "category": "hero",
+      "w": 96,
+      "h": 96,
+      "transparent": true
+    },
+    {
+      "file": "hero/bangbang/torso.png",
+      "name": "棒棒 · 躯干",
+      "category": "hero",
+      "w": 96,
+      "h": 128,
+      "transparent": true
+    },
+    {
+      "file": "hero/bangbang/arm_upper.png",
+      "name": "棒棒 · 上臂",
+      "category": "hero",
+      "w": 32,
+      "h": 64,
+      "transparent": true
+    },
+    {
+      "file": "hero/bangbang/arm_lower.png",
+      "name": "棒棒 · 前臂",
+      "category": "hero",
+      "w": 32,
+      "h": 64,
+      "transparent": true
+    },
+    {
+      "file": "hero/bangbang/leg_upper.png",
+      "name": "棒棒 · 大腿",
+      "category": "hero",
+      "w": 32,
+      "h": 64,
+      "transparent": true
+    },
+    {
+      "file": "hero/bangbang/leg_lower.png",
+      "name": "棒棒 · 小腿",
+      "category": "hero",
+      "w": 40,
+      "h": 72,
+      "transparent": true
+    },
+    {
+      "file": "hero/bangbang/portrait.png",
+      "name": "棒棒 · 半身立绘",
+      "category": "hero",
+      "w": 512,
+      "h": 640,
+      "transparent": true
+    },
+    {
+      "file": "hero/bangbang/prop.png",
+      "name": "棒棒 · 专属道具",
+      "category": "hero",
+      "w": 384,
+      "h": 64,
+      "transparent": true
+    },
+    {
+      "file": "hero/bianlian/head.png",
+      "name": "变脸匠 · 头部",
+      "category": "hero",
+      "w": 96,
+      "h": 96,
+      "transparent": true
+    },
+    {
+      "file": "hero/bianlian/torso.png",
+      "name": "变脸匠 · 躯干",
+      "category": "hero",
+      "w": 96,
+      "h": 128,
+      "transparent": true
+    },
+    {
+      "file": "hero/bianlian/arm_upper.png",
+      "name": "变脸匠 · 上臂",
+      "category": "hero",
+      "w": 32,
+      "h": 64,
+      "transparent": true
+    },
+    {
+      "file": "hero/bianlian/arm_lower.png",
+      "name": "变脸匠 · 前臂",
+      "category": "hero",
+      "w": 32,
+      "h": 64,
+      "transparent": true
+    },
+    {
+      "file": "hero/bianlian/leg_upper.png",
+      "name": "变脸匠 · 大腿",
+      "category": "hero",
+      "w": 32,
+      "h": 64,
+      "transparent": true
+    },
+    {
+      "file": "hero/bianlian/leg_lower.png",
+      "name": "变脸匠 · 小腿",
+      "category": "hero",
+      "w": 40,
+      "h": 72,
+      "transparent": true
+    },
+    {
+      "file": "hero/bianlian/portrait.png",
+      "name": "变脸匠 · 半身立绘",
+      "category": "hero",
+      "w": 512,
+      "h": 640,
+      "transparent": true
+    },
+    {
+      "file": "hero/bianlian/prop_mask_red.png",
+      "name": "变脸匠 · 红脸谱",
+      "category": "hero",
+      "w": 96,
+      "h": 96,
+      "transparent": true
+    },
+    {
+      "file": "hero/bianlian/prop_mask_gold.png",
+      "name": "变脸匠 · 金脸谱",
+      "category": "hero",
+      "w": 96,
+      "h": 96,
+      "transparent": true
+    },
+    {
+      "file": "hero/bianlian/prop_mask_green.png",
+      "name": "变脸匠 · 绿脸谱",
+      "category": "hero",
+      "w": 96,
+      "h": 96,
+      "transparent": true
+    },
+    {
+      "file": "hero/scarf.png",
+      "name": "红围巾",
+      "category": "hero",
+      "w": 256,
+      "h": 48,
+      "transparent": true
+    },
+    {
+      "file": "enemy/chicken_body.png",
+      "name": "秧鸡妖身体",
+      "category": "enemy",
+      "w": 128,
+      "h": 96,
+      "transparent": true
+    },
+    {
+      "file": "enemy/chicken_head.png",
+      "name": "秧鸡妖头部",
+      "category": "enemy",
+      "w": 64,
+      "h": 64,
+      "transparent": true
+    },
+    {
+      "file": "enemy/chicken_leg.png",
+      "name": "秧鸡妖腿",
+      "category": "enemy",
+      "w": 16,
+      "h": 48,
+      "transparent": true
+    },
+    {
+      "file": "enemy/grain_body.png",
+      "name": "谷穗怪身体",
+      "category": "enemy",
+      "w": 80,
+      "h": 160,
+      "transparent": true
+    },
+    {
+      "file": "enemy/grain_ear.png",
+      "name": "发光谷穗",
+      "category": "enemy",
+      "w": 48,
+      "h": 96,
+      "transparent": true
+    },
+    {
+      "file": "boss/robe.png",
+      "name": "张不管 · 长袍",
+      "category": "boss",
+      "w": 160,
+      "h": 192,
+      "transparent": true
+    },
+    {
+      "file": "boss/head.png",
+      "name": "张不管 · 头部",
+      "category": "boss",
+      "w": 128,
+      "h": 128,
+      "transparent": true
+    },
+    {
+      "file": "boss/fan_open.png",
+      "name": "张不管 · 展开折扇",
+      "category": "boss",
+      "w": 128,
+      "h": 80,
+      "transparent": true
+    },
+    {
+      "file": "boss/fan_closed.png",
+      "name": "张不管 · 收拢折扇",
+      "category": "boss",
+      "w": 80,
+      "h": 16,
+      "transparent": true
+    },
+    {
+      "file": "boss/portrait.png",
+      "name": "张不管 · 半身立绘",
+      "category": "boss",
+      "w": 512,
+      "h": 640,
+      "transparent": true
+    },
+    {
+      "file": "bg/far1_mountains.png",
+      "name": "远山",
+      "category": "bg",
+      "w": 3840,
+      "h": 1080,
+      "transparent": true,
+      "tile": "x"
+    },
+    {
+      "file": "bg/far2_city.png",
+      "name": "城市远景",
+      "category": "bg",
+      "w": 3840,
+      "h": 1080,
+      "transparent": true,
+      "tile": "x"
+    },
+    {
+      "file": "bg/far3_river.png",
+      "name": "江面",
+      "category": "bg",
+      "w": 3840,
+      "h": 1080,
+      "transparent": true,
+      "tile": "x"
+    },
+    {
+      "file": "bg/mid_stilt_houses.png",
+      "name": "中景吊脚楼",
+      "category": "bg",
+      "w": 3840,
+      "h": 1080,
+      "transparent": true,
+      "tile": "x"
+    },
+    {
+      "file": "bg/near_stilt_houses.png",
+      "name": "近景吊脚楼",
+      "category": "bg",
+      "w": 3840,
+      "h": 1080,
+      "transparent": true,
+      "tile": "x"
+    },
+    {
+      "file": "bg/fg_vines_1.png",
+      "name": "前景垂藤 1",
+      "category": "bg",
+      "w": 640,
+      "h": 360,
+      "transparent": true
+    },
+    {
+      "file": "bg/fg_grass_1.png",
+      "name": "前景草丛 1",
+      "category": "bg",
+      "w": 480,
+      "h": 240,
+      "transparent": true
+    },
+    {
+      "file": "bg/fg_vines_2.png",
+      "name": "前景垂藤 2",
+      "category": "bg",
+      "w": 640,
+      "h": 360,
+      "transparent": true
+    },
+    {
+      "file": "bg/fg_grass_2.png",
+      "name": "前景草丛 2",
+      "category": "bg",
+      "w": 480,
+      "h": 240,
+      "transparent": true
+    },
+    {
+      "file": "bg/fg_vines_3.png",
+      "name": "前景垂藤 3",
+      "category": "bg",
+      "w": 640,
+      "h": 360,
+      "transparent": true
+    },
+    {
+      "file": "bg/fg_grass_3.png",
+      "name": "前景草丛 3",
+      "category": "bg",
+      "w": 480,
+      "h": 240,
+      "transparent": true
+    },
+    {
+      "file": "tile/ground.png",
+      "name": "地面",
+      "category": "tile",
+      "w": 256,
+      "h": 256,
+      "transparent": true,
+      "tile": "x"
+    },
+    {
+      "file": "tile/ground_fill.png",
+      "name": "地下填充",
+      "category": "tile",
+      "w": 256,
+      "h": 256,
+      "transparent": false,
+      "tile": "xy"
+    },
+    {
+      "file": "tile/stair_step.png",
+      "name": "石阶",
+      "category": "tile",
+      "w": 96,
+      "h": 96,
+      "transparent": true
+    },
+    {
+      "file": "tile/stone_block.png",
+      "name": "石墩",
+      "category": "tile",
+      "w": 128,
+      "h": 80,
+      "transparent": true
+    },
+    {
+      "file": "tile/awning_platform.png",
+      "name": "摊棚平台",
+      "category": "tile",
+      "w": 224,
+      "h": 96,
+      "transparent": true
+    },
+    {
+      "file": "prop/mutton_stall.png",
+      "name": "羊肉汤摊",
+      "category": "prop",
+      "w": 480,
+      "h": 400,
+      "transparent": true
+    },
+    {
+      "file": "prop/stairway.png",
+      "name": "山城梯坎",
+      "category": "prop",
+      "w": 640,
+      "h": 560,
+      "transparent": true
+    },
+    {
+      "file": "prop/huangge_tree.png",
+      "name": "黄葛树",
+      "category": "prop",
+      "w": 560,
+      "h": 640,
+      "transparent": true
+    },
+    {
+      "file": "prop/lantern_string.png",
+      "name": "七盏灯笼",
+      "category": "prop",
+      "w": 1344,
+      "h": 200,
+      "transparent": true
+    },
+    {
+      "file": "prop/dragon_head.png",
+      "name": "龙头",
+      "category": "prop",
+      "w": 160,
+      "h": 128,
+      "transparent": true
+    },
+    {
+      "file": "prop/dragon_segment.png",
+      "name": "龙身",
+      "category": "prop",
+      "w": 64,
+      "h": 64,
+      "transparent": true
+    },
+    {
+      "file": "prop/dragon_tail.png",
+      "name": "龙尾",
+      "category": "prop",
+      "w": 96,
+      "h": 80,
+      "transparent": true
+    },
+    {
+      "file": "prop/fan_stall.png",
+      "name": "折扇摊",
+      "category": "prop",
+      "w": 320,
+      "h": 320,
+      "transparent": true
+    },
+    {
+      "file": "prop/flag.png",
+      "name": "三角彩旗",
+      "category": "prop",
+      "w": 128,
+      "h": 96,
+      "transparent": true
+    },
+    {
+      "file": "prop/curtain.png",
+      "name": "戏台帷幕",
+      "category": "prop",
+      "w": 96,
+      "h": 480,
+      "transparent": true
+    },
+    {
+      "file": "prop/stage.png",
+      "name": "万年台",
+      "category": "prop",
+      "w": 1920,
+      "h": 720,
+      "transparent": true
+    },
+    {
+      "file": "prop/crowd_1.png",
+      "name": "看戏人群 1",
+      "category": "prop",
+      "w": 160,
+      "h": 240,
+      "transparent": true
+    },
+    {
+      "file": "prop/crowd_2.png",
+      "name": "看戏人群 2",
+      "category": "prop",
+      "w": 160,
+      "h": 240,
+      "transparent": true
+    },
+    {
+      "file": "prop/crowd_3.png",
+      "name": "看戏人群 3",
+      "category": "prop",
+      "w": 160,
+      "h": 240,
+      "transparent": true
+    },
+    {
+      "file": "prop/crowd_4.png",
+      "name": "看戏人群 4",
+      "category": "prop",
+      "w": 160,
+      "h": 240,
+      "transparent": true
+    },
+    {
+      "file": "prop/flag_4f.png",
+      "name": "彩旗飘动",
+      "category": "prop",
+      "w": 512,
+      "h": 96,
+      "transparent": true,
+      "frames": 4,
+      "fw": 128,
+      "fh": 96
+    },
+    {
+      "file": "fx/needle.png",
+      "name": "绣花针",
+      "category": "fx",
+      "w": 64,
+      "h": 12,
+      "transparent": true
+    },
+    {
+      "file": "fx/grain.png",
+      "name": "谷粒",
+      "category": "fx",
+      "w": 24,
+      "h": 32,
+      "transparent": true
+    },
+    {
+      "file": "fx/boss_fan_4f.png",
+      "name": "飞扇旋转",
+      "category": "fx",
+      "w": 384,
+      "h": 96,
+      "transparent": true,
+      "frames": 4,
+      "fw": 96,
+      "fh": 96
+    },
+    {
+      "file": "fx/ink_smoke_6f.png",
+      "name": "浊气墨烟",
+      "category": "fx",
+      "w": 768,
+      "h": 128,
+      "transparent": true,
+      "frames": 6,
+      "fw": 128,
+      "fh": 128
+    },
+    {
+      "file": "fx/dragon_coil_6f.png",
+      "name": "金龙环绕",
+      "category": "fx",
+      "w": 3072,
+      "h": 512,
+      "transparent": true,
+      "frames": 6,
+      "fw": 512,
+      "fh": 512
+    },
+    {
+      "file": "fx/fan_gust_4f.png",
+      "name": "扇风",
+      "category": "fx",
+      "w": 1536,
+      "h": 256,
+      "transparent": true,
+      "frames": 4,
+      "fw": 384,
+      "fh": 256
+    },
+    {
+      "file": "fx/paper_scrap.png",
+      "name": "纸屑",
+      "category": "fx",
+      "w": 16,
+      "h": 12,
+      "transparent": true
+    },
+    {
+      "file": "fx/hit_spark_4f.png",
+      "name": "命中火花",
+      "category": "fx",
+      "w": 384,
+      "h": 96,
+      "transparent": true,
+      "frames": 4,
+      "fw": 96,
+      "fh": 96
+    },
+    {
+      "file": "fx/item_mutton.png",
+      "name": "羊肉汤道具",
+      "category": "fx",
+      "w": 96,
+      "h": 80,
+      "transparent": true
+    },
+    {
+      "file": "fx/item_dragon.png",
+      "name": "龙舞徽记",
+      "category": "fx",
+      "w": 96,
+      "h": 96,
+      "transparent": true
+    },
+    {
+      "file": "fx/item_fan.png",
+      "name": "折扇徽记",
+      "category": "fx",
+      "w": 96,
+      "h": 96,
+      "transparent": true
+    },
+    {
+      "file": "ui/logo.png",
+      "name": "画里山城 · 标题",
+      "category": "ui",
+      "w": 1200,
+      "h": 360,
+      "transparent": true
+    },
+    {
+      "file": "ui/icon_needle.png",
+      "name": "银针图标",
+      "category": "ui",
+      "w": 112,
+      "h": 112,
+      "transparent": true
+    },
+    {
+      "file": "ui/icon_dragon.png",
+      "name": "金龙图标",
+      "category": "ui",
+      "w": 112,
+      "h": 112,
+      "transparent": true
+    },
+    {
+      "file": "ui/icon_fan.png",
+      "name": "折扇图标",
+      "category": "ui",
+      "w": 112,
+      "h": 112,
+      "transparent": true
+    },
+    {
+      "file": "ui/hp_frame.png",
+      "name": "生命条外框",
+      "category": "ui",
+      "w": 480,
+      "h": 80,
+      "transparent": true
+    },
+    {
+      "file": "ui/restore_frame.png",
+      "name": "修复进度框",
+      "category": "ui",
+      "w": 560,
+      "h": 80,
+      "transparent": true
+    },
+    {
+      "file": "ui/dialog_box.png",
+      "name": "对话框",
+      "category": "ui",
+      "w": 1680,
+      "h": 240,
+      "transparent": true
+    },
+    {
+      "file": "ui/name_plate.png",
+      "name": "姓名牌",
+      "category": "ui",
+      "w": 240,
+      "h": 60,
+      "transparent": true
+    },
+    {
+      "file": "ui/card_frame.png",
+      "name": "选角卡片框",
+      "category": "ui",
+      "w": 520,
+      "h": 570,
+      "transparent": true
+    },
+    {
+      "file": "ui/btn_round.png",
+      "name": "圆形按键",
+      "category": "ui",
+      "w": 200,
+      "h": 200,
+      "transparent": true
+    },
+    {
+      "file": "ui/chapter_scroll.png",
+      "name": "章节画卷",
+      "category": "ui",
+      "w": 1920,
+      "h": 600,
+      "transparent": true
+    },
+    {
+      "file": "ui/app_icon.png",
+      "name": "应用图标",
+      "category": "ui",
+      "w": 1024,
+      "h": 1024,
+      "transparent": false
+    },
+    {
+      "file": "ui/chapter_thumb_1.png",
+      "name": "章节缩略图 1",
+      "category": "ui",
+      "w": 240,
+      "h": 240,
+      "transparent": true
+    },
+    {
+      "file": "ui/chapter_thumb_2.png",
+      "name": "章节缩略图 2",
+      "category": "ui",
+      "w": 240,
+      "h": 240,
+      "transparent": true
+    },
+    {
+      "file": "ui/chapter_thumb_3.png",
+      "name": "章节缩略图 3",
+      "category": "ui",
+      "w": 240,
+      "h": 240,
+      "transparent": true
+    },
+    {
+      "file": "ui/chapter_thumb_4.png",
+      "name": "章节缩略图 4",
+      "category": "ui",
+      "w": 240,
+      "h": 240,
+      "transparent": true
+    },
+    {
+      "file": "ui/chapter_thumb_5.png",
+      "name": "章节缩略图 5",
+      "category": "ui",
+      "w": 240,
+      "h": 240,
+      "transparent": true
+    },
+    {
+      "file": "story/prologue_1.png",
+      "name": "序章 1",
+      "category": "story",
+      "w": 1920,
+      "h": 1080,
+      "transparent": false
+    },
+    {
+      "file": "story/prologue_2.png",
+      "name": "序章 2",
+      "category": "story",
+      "w": 1920,
+      "h": 1080,
+      "transparent": false
+    },
+    {
+      "file": "story/prologue_3.png",
+      "name": "序章 3",
+      "category": "story",
+      "w": 1920,
+      "h": 1080,
+      "transparent": false
+    },
+    {
+      "file": "story/prologue_4.png",
+      "name": "序章 4",
+      "category": "story",
+      "w": 1920,
+      "h": 1080,
+      "transparent": false
+    },
+    {
+      "file": "story/epilogue_1.png",
+      "name": "尾声 · 谢幕",
+      "category": "story",
+      "w": 1920,
+      "h": 1080,
+      "transparent": false
+    },
+    {
+      "file": "story/moye_portrait.png",
+      "name": "墨爷半身像",
+      "category": "story",
+      "w": 512,
+      "h": 640,
+      "transparent": true
+    },
+    {
+      "file": "promo/cover_16x9.png",
+      "name": "说明书封面",
+      "category": "promo",
+      "w": 1920,
+      "h": 1080,
+      "transparent": false
+    },
+    {
+      "file": "promo/share_5x4.png",
+      "name": "小游戏分享图",
+      "category": "promo",
+      "w": 1000,
+      "h": 800,
+      "transparent": false
+    }
+  ]
+}
